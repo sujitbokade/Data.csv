@@ -10,3 +10,4 @@ Id EmployeeName JobTitle        BasePay OvertimePay OtherPay TotalPay TotalPayBe
 10 JOANNE       CHIEF           285262  0           17115    302377   302377
 12 PATRICIA     CAPTAIN         99722   87082       110804   297608   297608
 13 EDWARD       EXECUTIVE       294580  0           0        294580   294580
+14 Sujit        CAPTAIN         99722   87082       110804   297608   297608
